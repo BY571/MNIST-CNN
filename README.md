@@ -1,8 +1,8 @@
 # MNIST-CNN
-[image1]: ./Img/loss.png 
-[image2]: ./Img/acc.png 
-[image3]: ./Img/CNN.png
-[image4]: ./Img/numbers.png
+[image1]: ./Imgs/loss.png 
+[image2]: ./Imgs/acc.png 
+[image3]: ./Imgs/CNN.png
+[image4]: ./Imgs/numbers.png
 
 ### Training a Convolutional Neural Network to classify images of numbers
 This CNN was build and trained with the Keras Library. The training and test data is of the mnist dataset of Tensorflow/Keras.
