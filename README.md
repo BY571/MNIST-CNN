@@ -7,6 +7,8 @@
 ### Training a Convolutional Neural Network to classify images of numbers
 This CNN was build and trained with the Keras Library. The training and test data is of the mnist dataset of Tensorflow/Keras.
 ![alt text][image4]
+</b>
+
 Summary of the trained model:
 ![alt text][image3]
 
